@@ -1,0 +1,5 @@
+general:
+  model_num: "0"
+  cuda_devices: "5" 
+  num_epochs: 10
+  all_dataset: ["your_datasets"]

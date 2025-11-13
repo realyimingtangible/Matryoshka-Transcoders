@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data and Models
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+models/
+datasets/
+activations_*.npz
+*.jsonl
+*.json
+!config.yaml.example
+!requirements.txt
+
+# Results
+benchmark/
+transcoder_features*/
+relevant_features_extracted*/
+Feature_Results/
+results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# API Keys
+config.yaml
+*_api_key.txt
