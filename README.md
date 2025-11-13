@@ -4,7 +4,7 @@ A framework for training **Matryoshka Transcoders** - hierarchical sparse autoen
 
 ## Overview
 
-![Method Overview](./Method.pdf)
+![Method Overview](./Method.png)
 
 This repository provides tools to:
 - Train classifiers to distinguish physically plausible from implausible images
