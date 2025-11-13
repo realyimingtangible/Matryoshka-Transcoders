@@ -1,4 +1,4 @@
-# Matryoshka Transcoders for Physical Plausibility Assessment
+# Matryoshka Transcoders
 
 A framework for training **Matryoshka Transcoders** - hierarchical sparse autoencoders that learn interpretable features for detecting physical plausibility errors in images.
 
